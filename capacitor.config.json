@@ -1,0 +1,15 @@
+{
+  "appId": "com.plaindepot.app",
+  "appName": "The Plain Depot",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "backgroundColor": "#0b0d12"
+  },
+  "ios": {
+    "backgroundColor": "#0b0d12"
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
